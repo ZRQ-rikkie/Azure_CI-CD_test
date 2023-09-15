@@ -11,6 +11,7 @@ import Blog from './componets/blog/Blog';
 import Contact from './componets/contact/Contact';
 import Pricing from './componets/pricing/Pricing';
 
+
 function App() {
   return (
     <>
